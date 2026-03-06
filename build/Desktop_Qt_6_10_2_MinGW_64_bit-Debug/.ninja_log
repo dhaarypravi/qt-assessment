@@ -1,0 +1,63 @@
+# ninja log v6
+37	248	7941231653235681	MyTouristManager_autogen/timestamp	34e30ead014eb163
+37	248	7941231653235681	MyTouristManager_autogen/mocs_compilation.cpp	34e30ead014eb163
+37	248	7941231653235681	D:/New folder/MyTouristManager/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/MyTouristManager_autogen/mocs_compilation.cpp	34e30ead014eb163
+812	3448	7941223020778680	CMakeFiles/MyTouristManager.dir/main.cpp.obj	277ec3bea014b38e
+37	248	7941231653235681	D:/New folder/MyTouristManager/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/MyTouristManager_autogen/timestamp	34e30ead014eb163
+807	3442	7941223020723906	CMakeFiles/MyTouristManager.dir/MyTouristManager_autogen/mocs_compilation.cpp.obj	e8f28fba890a24b6
+249	2547	7941231655353409	CMakeFiles/MyTouristManager.dir/mainwindow.cpp.obj	b14b597326bf734e
+2548	2759	7941231678337923	MyTouristManager.exe	68d7e8da07c68d6
+103	1632	7941417294010461	MyTouristManager_autogen/timestamp	34e30ead014eb163
+103	1632	7941417294010461	MyTouristManager_autogen/mocs_compilation.cpp	34e30ead014eb163
+103	1632	7941417294010461	D:/New folder/MyTouristManager/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/MyTouristManager_autogen/timestamp	34e30ead014eb163
+103	1632	7941417294010461	D:/New folder/MyTouristManager/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/MyTouristManager_autogen/mocs_compilation.cpp	34e30ead014eb163
+1670	8595	7941417295708182	CMakeFiles/MyTouristManager.dir/registertourist.cpp.obj	97ead5dd8f3fc153
+1687	8597	7941417295864429	CMakeFiles/MyTouristManager.dir/findtourist.cpp.obj	413a12bef419cd22
+1678	8600	7941417295778357	CMakeFiles/MyTouristManager.dir/findpackage.cpp.obj	edb4e2a1497d88f0
+1649	8605	7941417295490541	CMakeFiles/MyTouristManager.dir/main.cpp.obj	277ec3bea014b38e
+1641	8607	7941417295416825	CMakeFiles/MyTouristManager.dir/MyTouristManager_autogen/mocs_compilation.cpp.obj	e8f28fba890a24b6
+1663	8619	7941417295632693	CMakeFiles/MyTouristManager.dir/addpackage.cpp.obj	a11913ef074b05c3
+1656	8622	7941417295568267	CMakeFiles/MyTouristManager.dir/mainwindow.cpp.obj	b14b597326bf734e
+8623	9260	7941417365227158	MyTouristManager.exe	9f1b32dcc082d61f
+64	552	7941418811247220	MyTouristManager_autogen/timestamp	34e30ead014eb163
+64	552	7941418811247220	MyTouristManager_autogen/mocs_compilation.cpp	34e30ead014eb163
+64	552	7941418811247220	D:/New folder/MyTouristManager/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/MyTouristManager_autogen/timestamp	34e30ead014eb163
+64	552	7941418811247220	D:/New folder/MyTouristManager/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/MyTouristManager_autogen/mocs_compilation.cpp	34e30ead014eb163
+579	5431	7941418816398439	CMakeFiles/MyTouristManager.dir/findpackage.cpp.obj	edb4e2a1497d88f0
+590	5445	7941418816503857	CMakeFiles/MyTouristManager.dir/findtourist.cpp.obj	413a12bef419cd22
+570	5497	7941418816298679	CMakeFiles/MyTouristManager.dir/registertourist.cpp.obj	97ead5dd8f3fc153
+562	5554	7941418816227019	CMakeFiles/MyTouristManager.dir/addpackage.cpp.obj	a11913ef074b05c3
+553	5622	7941418816130476	CMakeFiles/MyTouristManager.dir/mainwindow.cpp.obj	b14b597326bf734e
+5622	6082	7941418866830625	MyTouristManager.exe	9f1b32dcc082d61f
+22	1321	7941427953739247	MyTouristManager_autogen/timestamp	34e30ead014eb163
+22	1321	7941427953739247	MyTouristManager_autogen/mocs_compilation.cpp	34e30ead014eb163
+22	1321	7941427953739247	D:/New folder/MyTouristManager/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/MyTouristManager_autogen/timestamp	34e30ead014eb163
+22	1321	7941427953739247	D:/New folder/MyTouristManager/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/MyTouristManager_autogen/mocs_compilation.cpp	34e30ead014eb163
+1375	7791	7941427955692493	CMakeFiles/MyTouristManager.dir/findtourist.cpp.obj	413a12bef419cd22
+1366	7798	7941427955591977	CMakeFiles/MyTouristManager.dir/findpackage.cpp.obj	edb4e2a1497d88f0
+1356	7805	7941427955493859	CMakeFiles/MyTouristManager.dir/registertourist.cpp.obj	97ead5dd8f3fc153
+1330	7808	7941427955234235	CMakeFiles/MyTouristManager.dir/main.cpp.obj	277ec3bea014b38e
+1323	7824	7941427955161467	CMakeFiles/MyTouristManager.dir/MyTouristManager_autogen/mocs_compilation.cpp.obj	e8f28fba890a24b6
+1347	7891	7941427955403899	CMakeFiles/MyTouristManager.dir/addpackage.cpp.obj	a11913ef074b05c3
+1338	7936	7941427955313503	CMakeFiles/MyTouristManager.dir/mainwindow.cpp.obj	b14b597326bf734e
+7936	8537	7941428021298283	MyTouristManager.exe	9f1b32dcc082d61f
+57	368	7941428368971356	MyTouristManager_autogen/timestamp	34e30ead014eb163
+57	368	7941428368971356	MyTouristManager_autogen/mocs_compilation.cpp	34e30ead014eb163
+57	368	7941428368971356	D:/New folder/MyTouristManager/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/MyTouristManager_autogen/timestamp	34e30ead014eb163
+57	368	7941428368971356	D:/New folder/MyTouristManager/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/MyTouristManager_autogen/mocs_compilation.cpp	34e30ead014eb163
+389	5104	7941428372283751	CMakeFiles/MyTouristManager.dir/findpackage.cpp.obj	edb4e2a1497d88f0
+382	5119	7941428372223820	CMakeFiles/MyTouristManager.dir/registertourist.cpp.obj	97ead5dd8f3fc153
+369	5281	7941428372093838	CMakeFiles/MyTouristManager.dir/mainwindow.cpp.obj	b14b597326bf734e
+376	5310	7941428372163764	CMakeFiles/MyTouristManager.dir/addpackage.cpp.obj	a11913ef074b05c3
+395	5316	7941428372353820	CMakeFiles/MyTouristManager.dir/findtourist.cpp.obj	413a12bef419cd22
+5316	5687	7941428421559341	MyTouristManager.exe	9f1b32dcc082d61f
+144	797	7941620286752263	MyTouristManager_autogen/timestamp	34e30ead014eb163
+144	797	7941620286752263	MyTouristManager_autogen/mocs_compilation.cpp	34e30ead014eb163
+144	797	7941620286752263	D:/New folder/MyTouristManager/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/MyTouristManager_autogen/timestamp	34e30ead014eb163
+144	797	7941620286752263	D:/New folder/MyTouristManager/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/MyTouristManager_autogen/mocs_compilation.cpp	34e30ead014eb163
+843	7920	7941620293745001	CMakeFiles/MyTouristManager.dir/findtourist.cpp.obj	413a12bef419cd22
+800	7937	7941620293302190	CMakeFiles/MyTouristManager.dir/mainwindow.cpp.obj	b14b597326bf734e
+810	8081	7941620293402999	CMakeFiles/MyTouristManager.dir/addpackage.cpp.obj	a11913ef074b05c3
+820	8585	7941620293512887	CMakeFiles/MyTouristManager.dir/registertourist.cpp.obj	97ead5dd8f3fc153
+832	8697	7941620293633074	CMakeFiles/MyTouristManager.dir/findpackage.cpp.obj	edb4e2a1497d88f0
+8697	9374	7941620372282537	MyTouristManager.exe	9f1b32dcc082d61f
